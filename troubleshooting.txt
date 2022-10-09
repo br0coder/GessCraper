@@ -1,0 +1,11 @@
+### BeatifulSoup Module #####
+
+If you are having trouble installing the module "bs4" (ex: ModuleNotFoundError: No module named 'bs4'), try installing the module "beautifulsoup4" instead.
+
+(DO NOT CHANGE THE CODE)
+
+#############################
+
+
+
+
